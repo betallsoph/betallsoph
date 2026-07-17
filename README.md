@@ -1,6 +1,6 @@
 # Hi there, I'm An Tran ^^
 
-I'm a student developer from Vietnam. I grew up in Đà Lạt, moved to Sài Gòn for university, and spent my first year not really knowing who to ask about anything — where to find a room, what to expect from a landlord, how any of it worked. A lot of what I build now comes straight from those small, lonely moments.
+I'm an entry-level developer who grew up in Đà Lạt, moved to Sài Gòn for university, and spent my first year not really knowing who to ask about anything — where to find a room, what to expect from a landlord, how any of it worked. A lot of what I build now comes straight from those small, lonely moments.
 
 So most of my projects are just me trying to fix something I actually went through. Living alone got too expensive and there was no good place to look for a roommate — so I started **roomieVerse**. I kept watching a café put together its staff schedule by hand every week, someone always ending up unhappy — so I'm making **shiftbot**. And **Our Warmth** came from a night I still think about, when I wanted to help someone and didn't. Some of these are about code. Most of them are about a feeling I couldn't shake.
 
